@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/ml-latest-small/
+artifacts/*
+!artifacts/.gitkeep
+results/*.csv
+.DS_Store

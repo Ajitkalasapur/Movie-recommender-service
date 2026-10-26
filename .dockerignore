@@ -1,0 +1,9 @@
+.venv
+data
+results
+tests
+loadtest
+frontend
+.github
+__pycache__
+*.pyc
